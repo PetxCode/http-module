@@ -1,0 +1,48 @@
+{
+  "message": "student registration file",
+  "createdAt": "Wed. 24th April 2024",
+  "data": [
+    {
+      "id": "29ad4ace-e638-48f8-97ba-d18117ff3c93",
+      "name": "Terry",
+      "image": "https://cdn.dribbble.com/users/8736314/screenshots/16375298/media/dc0c4cfa212620ab632f3905cd0acc29.jpg?resize=320x240&vertical=center",
+      "date": 1713970558608
+    },
+    {
+      "id": "185885db-7984-47ce-83c3-bb0d9ed7d4fa",
+      "name": "Peter",
+      "image": "https://cdn.dribbble.com/users/9517579/screenshots/20088417/media/3f40ee4914c7b9d52d7e12998b54d987.jpeg?resize=320x240&vertical=center",
+      "date": 1713970797920
+    },
+    {
+      "id": "494be59c-a998-4329-a80b-9c1c5acaaf93",
+      "name": "Udida",
+      "image": "https://cdn.dribbble.com/users/9517579/screenshots/20088417/media/3f40ee4914c7b9d52d7e12998b54d987.jpeg?resize=320x240&vertical=center",
+      "date": 1713970835486
+    },
+    {
+      "id": "ce1b1a2b-74bd-44df-92cf-5dc2acae0a44",
+      "name": "Kelechi",
+      "image": "https://cdn.dribbble.com/userupload/6129845/file/original-511e785cbdc157359886dd82ff60a707.jpg?resize=400x300&vertical=center",
+      "date": 1713977357236
+    },
+    {
+      "id": "8c634937-bd3f-497f-8b6a-e0c0938ae68d",
+      "name": "Fedora",
+      "image": "https://cdn.dribbble.com/userupload/4447447/file/still-4a739bbb46571bc84fe99ad4df065852.png?resize=400x300&vertical=center",
+      "date": 1713977479215
+    },
+    {
+      "id": "4ce18c11-1d1a-488c-9876-f19c1bfb1f71",
+      "name": "Tunde",
+      "image": "https://cdn.dribbble.com/users/1132351/screenshots/17218049/media/6be37c13a82b70bc840da8753bf74ab3.jpeg?resize=400x300&vertical=center",
+      "date": 1713977598970
+    },
+    {
+      "id": "1e1ad35e-15a0-4c8a-820f-54dd5098d305",
+      "name": "James",
+      "image": "https://cdn.dribbble.com/userupload/10476690/file/original-5b695634eba2dc88ebe5db273a13c752.png?resize=450x338&vertical=center",
+      "date": 1713977661471
+    }
+  ]
+}

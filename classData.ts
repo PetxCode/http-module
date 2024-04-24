@@ -52,7 +52,6 @@ const selection = (arr: number[]) => {
       }
     }
 
-    // console.log(arr[lowest]);
     let swap = arr[i];
     arr[i] = arr[lowest];
     arr[lowest] = swap;
